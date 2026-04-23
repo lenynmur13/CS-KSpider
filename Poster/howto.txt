@@ -1,0 +1,36 @@
+File type must be pptx
+Poster File Naming:
+Major - Project Name.pptx
+
+Example:
+CS - SecureParkingSystem.pptx
+
+Poster Requirements:
+Size: 36” x 48”
+
+Layout: Horizontal only
+
+Must include:
+
+Project title
+
+Team members
+
+Mentor (if applicable)
+
+Instructor
+
+Problem statement
+
+Proposed solution
+
+Capstone I progress
+
+Capstone II goals
+
+Use official FIU / CEC branded templates.
+
+Resources:
+https://users.cis.fiu.edu/~sadjadi/Teaching/SeniorProject/Resources/Links to an external site.
+Example posters:
+https://users.cis.fiu.edu/~sadjadi/Teaching/SeniorProject/Deliverables/Links to an external site.
